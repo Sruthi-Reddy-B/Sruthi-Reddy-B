@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 I build intelligent visual systems and machine learning models that bridge perception and automation.  
 My projects span **deep learning, computer vision, and predictive analytics** — from object detection and 6D pose estimation to model deployment.
 
-📫 **Contact:** sruthi.reddy@rwth-aachen.de  
+📫 **Contact:** sruthireddy.bapa@gmail.com
 🔗 **LinkedIn:** [linkedin.com/in/sruthi-reddy-701](https://www.linkedin.com/in/sruthi-reddy-701)  
 
 ---
