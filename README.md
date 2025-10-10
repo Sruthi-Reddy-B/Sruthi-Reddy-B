@@ -21,7 +21,7 @@ Python | PyTorch | OpenCV | ROS2 | PyTorch | Git | Flask
 
 I build vision systems for robotics and automation (object detection, 6D pose estimation, gripper automation) and explore 3D neural rendering (NeRF / Gaussian splatting).
 
-📫 Contact: sruthi.reddy@rwth-aachen.de  
+📫 Contact: sruthireddy.bapa@gmail.com
 🔗 LinkedIn: https://www.linkedin.com/in/sruthi-reddy-701/
 
 ---
