@@ -25,11 +25,11 @@ My projects span **deep learning, computer vision, and predictive analytics** �
 
 ---
 
-## 🚀 Featured Projects
-- 🧠 **End-to-End Machine Learning Pipeline** — From data preprocessing to deployment using Flask.  
-- 🖼️ **6D Object Pose Estimation (YOLOv5)** — Real-time detection and pose estimation for robotics.  
-- 🔍 **3D Neural Rendering (Mini-NeRF)** — 3D scene reconstruction and visualization.  
-- 💬 **LangChain Chatbot** — Conversational AI using LLM + RAG architecture.
+##  Featured Projects
+-  **End-to-End Machine Learning Pipeline** — From data preprocessing to deployment using Flask.  
+-  **6D Object Pose Estimation (YOLOv5)** — Real-time detection and pose estimation for robotics.  
+-  **3D Neural Rendering (Mini-NeRF)** — 3D scene reconstruction and visualization.  
+-  **LangChain Chatbot** — Conversational AI using LLM + RAG architecture.
 
 *(See pinned repositories below for code and demos.)*
 
