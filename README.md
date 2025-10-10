@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **Sruthi-Reddy-B/Sruthi-Reddy-B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+# Hi — I'm B Sruthi Reddy 👋
+
+**Computer Vision & Robotics Engineer** — M.Sc.  
+Python | PyTorch | OpenCV | ROS2 | PyTorch | Git | Flask
+
+I build vision systems for robotics and automation (object detection, 6D pose estimation, gripper automation) and explore 3D neural rendering (NeRF / Gaussian splatting).
+
+📫 Contact: sruthi.reddy@rwth-aachen.de  
+🔗 LinkedIn: https://www.linkedin.com/in/sruthi-reddy-701/
+
+---
+
+## Featured Projects
+- **YOLOv5 + 6D Pose Estimation** — end-to-end pipeline for object detection + pose estimation (robotic grasping).  
+- **Vision-Driven Smart Gripper** — pipeline integrating camera perception with ROS2 controls.  
+- **Mini NeRF Demo** — small 3D neural rendering example (reconstruction & visualization).
+
+*(Click the pinned repos to see code, results and how to run the demos.)*
