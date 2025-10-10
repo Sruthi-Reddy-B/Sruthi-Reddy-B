@@ -13,22 +13,23 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 # Hi — I'm B Sruthi Reddy 👋
 
-**Computer Vision & Robotics Engineer** — M.Sc.  
-Python | PyTorch | OpenCV | ROS2 | PyTorch | Git | Flask
+**Machine Learning & Computer Vision Engineer** | M.Sc. in Robotic Sysems Engineering | Python | PyTorch | OpenCV | ROS2 
 
-I build vision systems for robotics and automation (object detection, 6D pose estimation, gripper automation) and explore 3D neural rendering (NeRF / Gaussian splatting).
+I build intelligent visual systems and machine learning models that bridge perception and automation.  
+My projects span **deep learning, computer vision, and predictive analytics** — from object detection and 6D pose estimation to model deployment.
 
-📫 Contact: sruthireddy.bapa@gmail.com
-🔗 LinkedIn: https://www.linkedin.com/in/sruthi-reddy-701/
+📫 **Contact:** sruthi.reddy@rwth-aachen.de  
+🔗 **LinkedIn:** [linkedin.com/in/sruthi-reddy-701](https://www.linkedin.com/in/sruthi-reddy-701)  
 
 ---
 
-## Featured Projects
-- **YOLOv5 + 6D Pose Estimation** — end-to-end pipeline for object detection + pose estimation (robotic grasping).  
-- **Vision-Driven Smart Gripper** — pipeline integrating camera perception with ROS2 controls.  
-- **Mini NeRF Demo** — small 3D neural rendering example (reconstruction & visualization).
+## 🚀 Featured Projects
+- 🧠 **End-to-End Machine Learning Pipeline** — From data preprocessing to deployment using Flask.  
+- 🖼️ **6D Object Pose Estimation (YOLOv5)** — Real-time detection and pose estimation for robotics.  
+- 🔍 **3D Neural Rendering (Mini-NeRF)** — 3D scene reconstruction and visualization.  
+- 💬 **LangChain Chatbot** — Conversational AI using LLM + RAG architecture.
 
-*(Click the pinned repos to see code, results and how to run the demos.)*
+*(See pinned repositories below for code and demos.)*
+
