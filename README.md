@@ -24,7 +24,7 @@ I build intelligent visual systems and machine learning models that bridge perce
 My projects span **deep learning, computer vision, and predictive analytics** — from object detection and 6D pose estimation to model deployment.
 
 📫 **Contact:** sruthireddy.bapa@gmail.com
-🔗 **LinkedIn:** [https://www.linkedin.com/in/b-sruthi-reddy]
+🔗 **LinkedIn:** https://www.linkedin.com/in/b-sruthi-reddy
 
 ---
 
