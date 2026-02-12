@@ -35,5 +35,5 @@ My projects span **deep learning, computer vision, and predictive analytics** â€
 
 
 
-*(See repositories below for code and demos.)*
+*(See repositories for code and demos.)*
 
