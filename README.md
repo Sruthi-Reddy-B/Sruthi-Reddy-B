@@ -29,7 +29,8 @@ My projects span **deep learning, computer vision, and predictive analytics** â€
 ---
 
 ##  Featured Projects
--  **End-to-End Machine Learning Pipeline** â€” From data preprocessing to deployment using Flask.
+-  **End-to-End Machine Learning Pipeline** - From data preprocessing to deployment using Flask
+-  **Industrial-6D-Pose-Estimation-System** - 6D Pose estimation for robotics 
 -  **Object detection with pose visualization** - 6D Pose estimation for robotics
 
 
