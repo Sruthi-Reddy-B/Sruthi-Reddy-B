@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -  **LangChain Chatbot** — Conversational AI using LLM + RAG architecture.
 -->
 
-# Hi — I'm B Sruthi Reddy 👋
+# B Sruthi Reddy
 
 **Machine Learning & Computer Vision Engineer** | M.Sc. in Robotic Sysems Engineering | Python | PyTorch | OpenCV | ROS2 
 
