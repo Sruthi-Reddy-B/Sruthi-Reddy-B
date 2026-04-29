@@ -178,19 +178,6 @@ Combined object detection and 6D pose estimation with real-time overlay visualis
 
 ---
 
-## GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sruthi-Reddy-B&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=60a5fa&icon_color=60a5fa&text_color=8b949e&rank_icon=github&include_all_commits=true&count_private=true" height="155" alt="GitHub Stats"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sruthi-Reddy-B&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=60a5fa&text_color=8b949e&langs_count=6" height="155" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sruthi-Reddy-B&theme=github-dark-blue&hide_border=true&background=0d1117&ring=60a5fa&fire=f59e0b&currStreakLabel=60a5fa&sideLabels=8b949e&dates=8b949e" alt="Contribution Streak"/>
-</p>
-
----
 
 <div align="center">
   <sub>Stuttgart, Germany &nbsp;·&nbsp; Open to CV / ML / Robotics roles &nbsp;·&nbsp; <a href="mailto:sruthireddy.bapa@gmail.com">sruthireddy.bapa@gmail.com</a></sub>
