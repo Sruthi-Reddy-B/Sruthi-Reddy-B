@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -  
 -  **3D Neural Rendering (Mini-NeRF)** — 3D scene reconstruction and visualization.  
 -  **LangChain Chatbot** — Conversational AI using LLM + RAG architecture.
--->
+
 
 # B Sruthi Reddy
 
