@@ -45,7 +45,7 @@ My projects span **deep learning, computer vision, and predictive analytics** 鈥
 
 <p>
   MSc Robotic Systems Engineering &nbsp;路&nbsp; RWTH Aachen University <br/>
-  Stuttgart, Germany &nbsp;路&nbsp; Open to CV / ML / Robotics roles &nbsp;路&nbsp; English-first teams
+  Stuttgart, Germany &nbsp;路&nbsp; Open to CV / ML / Robotics roles 
 </p>
 
 <p>
