@@ -44,7 +44,7 @@ My projects span **deep learning, computer vision, and predictive analytics** 鈥
 <p><strong>Computer Vision Engineer &nbsp;路&nbsp; Robotics &nbsp;路&nbsp; Machine Learning</strong></p>
 
 <p>
-  MSc Robotic Systems Engineering &nbsp;路&nbsp; RWTH Aachen University (Grade 1.7)<br/>
+  MSc Robotic Systems Engineering &nbsp;路&nbsp; RWTH Aachen University <br/>
   Stuttgart, Germany &nbsp;路&nbsp; Open to CV / ML / Robotics roles &nbsp;路&nbsp; English-first teams
 </p>
 
