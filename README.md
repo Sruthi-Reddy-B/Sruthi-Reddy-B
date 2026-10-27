@@ -138,28 +138,6 @@ Combined object detection and 6D pose estimation with real-time overlay visualis
 | 2012 – 2016 | B.Tech Mechanical Engineering | Amrita University, India |
 
 ---
-<!--
-## Currently Building
-
-16-week structured project sprint — one deployable CV/ML project per week, all pushed here as completed.
-
-- [x] Python OOP — image processing class library with pytest coverage
-- [x] OpenCV — real-time webcam edge detector + HSV object tracker
-- [ ] Camera calibration pipeline — checkerboard calibration + reprojection error analysis
-- [ ] PyTorch CNN — ResNet on CIFAR-10, target >85% accuracy
-- [ ] YOLOv8 — custom detection pipeline with ONNX export
-- [ ] 6D pose estimation — full rebuild with demo video
-- [ ] Docker + GitHub Actions — containerised CV deployment with CI/CD
-- [ ] ROS2 node — YOLO detection publishing pose to ROS topic
-- [ ] C++ OpenCV project with CMake + GoogleTest
-- [ ] SLAM — EKF-SLAM implementation + ORB-SLAM3 on TUM dataset
-- [ ] MLOps pipeline — WandB · MLflow · ONNX · Docker · CI/CD
-
-> Each project ships with a README covering context, approach, and results.
-
----
---!>
----
 
 ## Tech Stack
 
@@ -184,4 +162,22 @@ Combined object detection and 6D pose estimation with real-time overlay visualis
 <div align="center">
   <sub>Germany &nbsp;·&nbsp; Open to CV / ML / Robotics roles &nbsp;·&nbsp; <a href="mailto:sruthireddy.bapa@gmail.com">sruthireddy.bapa@gmail.com</a></sub>
 </div>
+<!--
+## Currently Building
+
+16-week structured project sprint — one deployable CV/ML project per week, all pushed here as completed.
+
+- [x] Python OOP — image processing class library with pytest coverage
+- [x] OpenCV — real-time webcam edge detector + HSV object tracker
+- [ ] Camera calibration pipeline — checkerboard calibration + reprojection error analysis
+- [ ] PyTorch CNN — ResNet on CIFAR-10, target >85% accuracy
+- [ ] YOLOv8 — custom detection pipeline with ONNX export
+- [ ] 6D pose estimation — full rebuild with demo video
+- [ ] Docker + GitHub Actions — containerised CV deployment with CI/CD
+- [ ] ROS2 node — YOLO detection publishing pose to ROS topic
+- [ ] C++ OpenCV project with CMake + GoogleTest
+- [ ] SLAM — EKF-SLAM implementation + ORB-SLAM3 on TUM dataset
+- [ ] MLOps pipeline — WandB · MLflow · ONNX · Docker · CI/CD
+
+> Each project ships with a README covering context, approach, and results.
 
