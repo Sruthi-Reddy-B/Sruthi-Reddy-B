@@ -45,7 +45,7 @@ My projects span **deep learning, computer vision, and predictive analytics** 鈥
 
 <p>
   MSc Robotic Systems Engineering &nbsp;路&nbsp; RWTH Aachen University <br/>
-  Stuttgart, Germany &nbsp;路&nbsp; Open to CV / ML / Robotics roles 
+  Germany &nbsp;路&nbsp; Open to CV / ML / Robotics roles 
 </p>
 
 <p>
@@ -180,6 +180,6 @@ Combined object detection and 6D pose estimation with real-time overlay visualis
 
 
 <div align="center">
-  <sub>Stuttgart, Germany &nbsp;路&nbsp; Open to CV / ML / Robotics roles &nbsp;路&nbsp; <a href="mailto:sruthireddy.bapa@gmail.com">sruthireddy.bapa@gmail.com</a></sub>
+  <sub>Germany &nbsp;路&nbsp; Open to CV / ML / Robotics roles &nbsp;路&nbsp; <a href="mailto:sruthireddy.bapa@gmail.com">sruthireddy.bapa@gmail.com</a></sub>
 </div>
 
