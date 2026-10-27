@@ -138,7 +138,7 @@ Combined object detection and 6D pose estimation with real-time overlay visualis
 | 2012 – 2016 | B.Tech Mechanical Engineering | Amrita University, India |
 
 ---
-
+<!--
 ## Currently Building
 
 16-week structured project sprint — one deployable CV/ML project per week, all pushed here as completed.
