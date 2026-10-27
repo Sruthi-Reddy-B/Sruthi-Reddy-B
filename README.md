@@ -158,7 +158,7 @@ Combined object detection and 6D pose estimation with real-time overlay visualis
 > Each project ships with a README covering context, approach, and results.
 
 ---
-
+--!>
 ## Tech Stack
 
 <p align="left">
